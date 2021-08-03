@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Firebase_iOS
 //
-//  Created by Ponraj, Rooban (Cognizant) on 05/07/21.
+//  Created by Ponraj, Rooban on 05/07/21.
 //
 
 import UIKit

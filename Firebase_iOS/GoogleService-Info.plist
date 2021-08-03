@@ -7,7 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.817279090517-0dokjjj068jsl8pvq5r568p4ol88vj1l</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBvkYJ1K8UhvEhIn9cOKohJHKb6I4ktvqI</string>
+	<string>AIzaSyBvkYJ1K8UhvEhIn9cOKohJHKb6I4ktvqI123</string>
 	<key>GCM_SENDER_ID</key>
 	<string>817279090517</string>
 	<key>PLIST_VERSION</key>
@@ -19,15 +19,15 @@
 	<key>STORAGE_BUCKET</key>
 	<string>sample-6f23d.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:817279090517:ios:9906ec2d1db6492c0179dc</string>
 </dict>
